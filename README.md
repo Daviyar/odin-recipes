@@ -7,7 +7,7 @@ This project focuses on practicing **HTML structure**, **links**, **lists**, and
 
 ## 📸 Preview
 
-(You can add a screenshot here later)
+<img width="2966" height="2690" alt="image" src="https://github.com/user-attachments/assets/ce008d9e-06cd-4276-add6-426b7503a9fb" />
 
 ---
 
